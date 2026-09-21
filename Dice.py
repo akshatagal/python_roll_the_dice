@@ -1,4 +1,3 @@
-# python_roll_the_dice
 import random
 
 while True:
